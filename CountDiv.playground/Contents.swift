@@ -8,9 +8,3 @@ func solution(_ A : Int, _ B : Int, _ K : Int) -> Int {
 }
 
 solution(6, 18, 2)
-
-for i in 6...18 {
-    if i % 2 == 0 {
-        print(i)
-    }
-}
